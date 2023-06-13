@@ -1,5 +1,5 @@
 class Question:
     
-    def __init__(self,q_text,q_ans):
-        self.text=q_text
-        self.answer=q_ans
+    def __init__(self,question_text,question_ans):
+        self.text=question_text
+        self.answer=question_ans
